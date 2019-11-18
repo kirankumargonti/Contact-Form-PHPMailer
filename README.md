@@ -8,13 +8,14 @@
 
 5. Then Do Some Changes in contact.php file which is present in the includes folder in order to work this project
 
-6.     $mail->Username = "your Gmail address example@gmail.com"; // Your Gmail                                                          address.
+6.     $mail->Username = "your Gmail address example@gmail.com"; // Your Gmai address.
+
 7.     $mail->Password = "your Gmail password"; // Your Gmail login password or App Specific Password.
 
 
 8.     $mail->addAddress('recipient Gmail address example@gmail.com'); // Set the recipient of the message.
 
-9. in order to work This PHPMailer you should turn off the  **2-Step- Verification** for the google account you want to receive messages click the below link to navigate to that page.      
+9. in order to work This PHPMailer you should turn off the  **2-Step- Verification** for the google account you want to send messages click the below link to navigate to that page.      
 https://myaccount.google.com/security
 
 10. and the next thing is should turn On the
