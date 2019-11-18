@@ -8,7 +8,7 @@
 
 5. Then Do Some Changes in contact.php file which is present in the includes folder in order to work this project
 
-6.     $mail->Username = "your Gmail address example@gmail.com"; // Your Gmai address.
+6.     $mail->Username = "your Gmail address example@gmail.com"; // Your Gmail address.
 
 7.     $mail->Password = "your Gmail password"; // Your Gmail login password or App Specific Password.
 
